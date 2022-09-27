@@ -1,0 +1,3 @@
+﻿
+2022-09-24 19:59:16.2905 DEBUG Debugging with sum operation successfull
+2022-09-24 19:59:17.3156 INFO sum:90
